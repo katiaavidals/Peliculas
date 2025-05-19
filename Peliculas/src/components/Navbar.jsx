@@ -11,7 +11,7 @@ function Navbar() {
       boxShadow: '0 2px 6px rgba(0,0,0,0.1)'
     }}>
       <h2 style={{ margin: 0, color: 'white' }}>
-        🎬 Pelis Rosas
+        🎬 PinkyMovies
       </h2>
       <div style={{ display: 'flex', gap: '20px' }}>
         <Link to="/" style={linkStyle}>Inicio</Link>
